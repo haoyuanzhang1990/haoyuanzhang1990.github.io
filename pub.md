@@ -22,7 +22,7 @@ title: "Publication"
 <hr>
 
 <h3> Journal Paper</h3>
-[1] <b>Generic Bayesian Network Models for Making Maintenance Decisions from Available Data and Expert Knowledge</b>. <b>Haoyuan Zhang</b>, D. William R. Marsh, 2017. <i>Journal of Risk and Reliability (in press)</i>.<a href="https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/28444/Marsh%20Generic%20Bayesian%20Network%202017%20Accepted.pdf?sequence=1">[preprint]</a>
+[1] <b>Generic Bayesian Network Models for Making Maintenance Decisions from Available Data and Expert Knowledge</b>. <b>Haoyuan Zhang</b>, D. William R. Marsh, 2018. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, 232(5):505-523.
 
 <p>[2] <b>CPN Based Modeling of Tourism Demand Forecasting</b>. Hua Bai, <b>Haoyuan Zhang</b>, 2017. <i>International Journal of Business and Management</i>, 12(1), pp.28-35.</p>
 
