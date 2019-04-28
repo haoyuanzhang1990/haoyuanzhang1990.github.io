@@ -8,7 +8,12 @@ title: "Publication"
 <hr>
 <h3>Under Review</h3>
 
-<p>[1] <b>A Colored Petri Net Approach to Aid Integrate Process Planning and Scheduling Optimized by Hybrid Genetic Algorithm and Simulated Annealing</b>. <b>Haoyuan Zhang</b>, Kaijian Li, Tak Nam Wong, Luping Zhang and Asheem Shrestha, 2017.  <i>(submitted)</i>.</p>
+
+<p>[1] <b>Learning from Uncertain Data, Knowledge and Similar Groups: Individualised Multi-State Deterioration Prediction for Infrastructure Asset</b>. <b>Haoyuan Zhang</b>, D. William R. Marsh.
+
+<p>[2] <b>Managing Infrastructure Asset: Bayesian Networks for Inspection and Maintenance Decisions Reasoning and Planning</b>. <b>Haoyuan Zhang</b>, D. William R. Marsh.
+
+<p>[3] <b>A Colored Petri Net Approach to Aid Integrate Process Planning and Scheduling Optimized by Hybrid Genetic Algorithm and Simulated Annealing</b>. <b>Haoyuan Zhang</b>, Kaijian Li, Tak Nam Wong, Luping Zhang and Asheem Shrestha.
 
 
 
