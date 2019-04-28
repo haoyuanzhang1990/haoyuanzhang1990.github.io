@@ -7,6 +7,18 @@ title: "Research and Teaching"
 <h3>Research Activity</h3>
 
 <p style="text-align:left;">
+  <u>Data Study Group (Alan Turing Institute)</u><span style="float:right;">Dec 2018</span>
+<br>Player Pathways: Understanding Career Paths That Deliver Success for Professional Football Players and Clubs (with PlayerLens)
+</p> 
+
+
+<p style="text-align:left;">
+  <u>Data Study Group (Alan Turing Institute)</u><span style="float:right;">May 2018</span>
+<br>Predicting Language Outcome and Recovery After Stroke (PLORAS) May. 2018 (with University College London)
+</p> 
+
+
+<p style="text-align:left;">
   <u>Rail Research UK Association (RRUKA)</u><span style="float:right;">Nov 2015; Nov 2016; Nov 2017</span>
 <br><a href="http://www.rruka.org.uk/events/rruka-annual-conference-2015/">RRUKA Annual Conference 2015</a>, <a href="http://www.rruka.org.uk/events/rruka-annual-conference-2016/">2016</a>, and <a href="http://www.rruka.org.uk/events/rruka-annual-conference-2017/">2017</a>, London, UK
 </p> 
