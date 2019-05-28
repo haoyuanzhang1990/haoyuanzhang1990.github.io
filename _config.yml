@@ -13,7 +13,7 @@ all_categories: [
 ["knife", "Knife","knife_bn2.html"]
 ]
 
-paginate: 4
+paginate: 3
 paginate_path: "posts/page:num"
 timezone: Europe/London
 
