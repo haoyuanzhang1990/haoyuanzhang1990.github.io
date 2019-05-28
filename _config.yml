@@ -10,7 +10,6 @@ url: haoyuanzhang1990.github.io
 all_categories: [
 ["read", "Publication","pub.html"], 
 ["about", "Research and Teaching","randt.html"]
-["knife", "Knife","knife_bn2.html"]
 ]
 
 paginate: 3
